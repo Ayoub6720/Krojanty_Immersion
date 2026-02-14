@@ -157,45 +157,9 @@ Si la partie atteint 64 tours (32 par joueur), le score final est calculé :
 - Le plus haut score gagne
 - En cas d'égalité parfaite : match nul
 
-## 7) Équipe de Développement
 
-### Mécanique de Jeu
-- **Ismail EL-MAALLEM**
-  - Implémentation des déplacements
-  - Système de capture
-  - Validation des règles
 
-### Intelligence Artificielle
-- **Valentin PREVOT**
-  - Algorithme Minimax
-  - Évaluation des positions
-- **Nolann WICKERS**
-  - Optimisations de l'IA
-  - Table de transposition
-- **Ayoub DARKAOUI**
-  - Status de jeu
-  - Intelligence artificielle
-
-### Interface Utilisateur
-- **Corentin BANOCAY**
-  - Interface graphique (GTK4)
-  - Tests unitaires et intégration
-- **Alan AKGUN**
-  - Interface graphique
-  - Documentation technique
-  - Support réseau
-
-### Architecture et Infrastructure
-- **Loïc CLAUDE**
-  - Tests et validation
-  - Interface graphique (grille, logo)
-- **Valentin LERAY**
-  - Architecture réseau
-  - Intégration IA
-  - Gestion des arguments
-  - Architecture principale
-
-## 8) Architecture et rôle des fichiers
+## 7) Architecture et rôle des fichiers
 
 Voici une liste détaillée des fichiers importants et de leur rôle :
 
